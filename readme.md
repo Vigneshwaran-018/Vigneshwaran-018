@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Detection Engineer in Progress 🛡️</h3>
 
 <p align="center">
-  <a href="mailto:vb2179@srmist.edu.in">📧 Email</a> •
+  <a href="mailto:vickeybalu2006@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/vigneshwaran-b-598947295">💼 LinkedIn</a> •
   <a href="https://github.com/Vigneshwaran-018">🐙 GitHub</a>
 </p>
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-🎓 B.Tech CSE (Cyber Security) @ SRM IST (CGPA: 9.32)  
+🎓 B.Tech Computer Science and Engineering with specialization in Cybersecurity @ SRM IST (CGPA: 9.32)  
 🧠 Passionate about **threat detection, SOC workflows, and attack analysis**  
 🔍 I love building systems that **detect what others try to hide**  
 
@@ -87,7 +87,7 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 vb2179@srmist.edu.in  
+- 📧 vickeybalu2006@gmail.com  
 - 💼 LinkedIn: Vigneshwaran B  
 - 💻 GitHub: Vigneshwaran-018  
 
