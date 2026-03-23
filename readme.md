@@ -14,8 +14,6 @@
 🧠 Passionate about **threat detection, SOC workflows, and attack analysis**  
 🔍 I love building systems that **detect what others try to hide**  
 
-💡 Currently preparing for **CompTIA Security+ (SY0-701)**  
-
 ---
 
 ## 🧩 What I Do
