@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:vickeybalu2006@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/vigneshwaran-b-598947295">💼 LinkedIn</a> •
-  <a href="https://github.com/Vigneshwaran-018">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/vigneshwaran-b-598947295">💼 LinkedIn</a> 
 </p>
 
 ---
