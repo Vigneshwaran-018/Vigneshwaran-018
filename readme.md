@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Vigneshwaran B</h1>
+<h1 align="center">👨‍💻 Vigneshwaran Balasubramani</h1>
 <h3 align="center">Cybersecurity Enthusiast | Detection Engineer in Progress 🛡️</h3>
 
 <p align="center">
