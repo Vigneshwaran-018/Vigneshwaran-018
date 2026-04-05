@@ -10,6 +10,7 @@
 
 ## 🚀 About Me
 🎓 B.Tech Computer Science and Engineering with specialization in Cybersecurity @ SRM IST (CGPA: 9.32)  
+🛡️ **CompTIA Security+ (SY0-701) Certified**  
 🧠 Passionate about **threat detection, SOC workflows, and attack analysis**  
 🔍 I love building systems that **detect what others try to hide**  
 
@@ -65,6 +66,9 @@
 🎯 **100% Merit Scholarship – SRM IST**  
 (98.15 percentile in JEE Main)
 
+🛡️ **CompTIA Security+ (SY0-701) Certified**  
+Validated knowledge in **network security, threat detection, risk management, and incident response**
+
 ---
 
 ## 📊 GitHub Stats
@@ -85,8 +89,7 @@
 
 ## 📫 Let's Connect
 - 📧 vickeybalu2006@gmail.com  
-- 💼 LinkedIn: Vigneshwaran B  
-- 💻 GitHub: Vigneshwaran-018  
+- 💼 LinkedIn: Vigneshwaran Balasubramani 
 
 ---
 
